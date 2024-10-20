@@ -41,7 +41,7 @@ function Home({Id}) {
         </div>
         <div className="flex flex-row m-auto">
           <img src={leaf} className="w-10 h-10 mt-20 md:mt-0 md:w-20 md:h-20 scale-x scale-x-[-1]"/>
-          <h1 className="text-6xl font-body py-5 mx-8">Deden & Ambu</h1>
+          <h1 className="text-6xl font-body py-5 mx-8">Deden & Desi</h1>
           <img src={leaf} className="w-10 h-10 mt-20 md:mt-0 md:w-20 md:h-20 "/>
         </div>
         <p>{`${days}d ${hours}h ${minutes}m ${seconds}s`}</p>
